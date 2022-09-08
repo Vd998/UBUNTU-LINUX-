@@ -1,0 +1,3 @@
+to install apache airflowin ubuntu env:- pip install apache-airflow
+to install airflow scheduler:-pip install airflow scheduler
+to run airflow scheduler:- airflow scheduler(IT WILL KEEP SITE UPTO DATE ,EVERY DAG)
